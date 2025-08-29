@@ -3,7 +3,7 @@
     <name>taxi755</name>
     <version>1.0.0</version>
     <creationDate>August 2025</creationDate>
-    <author>Claude AI Assistant</author>
+    <author>Taxi755 Development Team</author>
     <authorEmail>support@taxi755.ru</authorEmail>
     <copyright>Copyright (C) 2025 Taxi755. All rights reserved.</copyright>
     <description>Modern responsive template for Taxi755 service. White/Yellow color scheme with clean design.</description>
@@ -21,6 +21,8 @@
         <folder>language</folder>
     </files>
 
+    
+     
     <positions>
         <!-- Header positions -->
         <position>logo</position>
@@ -162,5 +164,5 @@
 
         </fields>
     </config>
-
+   
 </extension>
